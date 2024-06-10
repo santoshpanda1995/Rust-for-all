@@ -36,5 +36,20 @@ rustc Hello.rs
 
 
 ## Table of Contents
-
+- Hello world
+- Comment
+- Declare a variable
+- Integers
+- Boolean
+- Mutable
+- Constants
+- if
+- if else
+- else if
+- for loop
+- while loop
+- loop
+- continue
+- 
+- 
 ## To be continued (Work in progress). If you want to add something, you are most welcome.
