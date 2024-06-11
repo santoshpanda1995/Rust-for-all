@@ -19,7 +19,7 @@ notepad Hello.rs
 ```
 fn
 main(){
-   println!("Rust says Hello to TutorialsPoint !!");
+   println!("Hello world");
 }
 ```
 5) Compile
