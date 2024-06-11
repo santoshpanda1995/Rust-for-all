@@ -1,6 +1,6 @@
  <h1 align="center"> <img src="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Images/giphy.gif" width="70px"> Rust For All <img src="https://github.com/santoshpanda1995/Image-Processing-using-Matlab/blob/main/Images/giphy.gif" width="70px"> </h1>
 
-**This comprehensive collection covers everything from the foundational basics to advanced techniques related to Rust Programming language. Rust is a modern systems programming language developed by the Mozilla Corporation.**
+**This comprehensive collection covers everything from the foundational basics to advanced techniques related to Rust Programming language. Rust is a modern systems programming language developed by the Mozilla Corporation. Rust can be installed in Windows/Linux, and it can also be run in the browser directly from the website [Rust Playground](https://play.rust-lang.org/)**
 
 **Creating your first Rust program**
 1) First, create a folder. For e.g., let us take HelloWorld
@@ -36,9 +36,9 @@ rustc Hello.rs
 
 
 ## Table of Contents
-- Hello world
-- Comment
-- Declare a variable
+- [Hello world](https://github.com/santoshpanda1995/Rust-for-all/blob/main/Hello.rs) 
+- [Comment](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/comment.rs)
+- [Declare a variable](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/variable.rs)
 - Integers
 - Boolean
 - Mutable
