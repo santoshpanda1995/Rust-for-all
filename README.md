@@ -47,13 +47,11 @@ rustc Hello.rs
 - [Boolean](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/boolean.rs)
 - [Mutable](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/mutable.rs)
 - [Constants](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/constants.rs)
-- if
-- if else
-- else if
-- for loop
-- while loop
-- loop
-- continue
-- 
-- 
-## To be continued (Work in progress). If you want to add something, you are most welcome.
+- [if](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/if.rs)
+- [if else](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/if_else.rs)
+- [else if](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/elseif.rs)
+- [For loop](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/forloop.rs)
+- [while loop](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/whileloop.rs)
+- [loop](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/loop.rs)
+- [continue](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/continue.rs)
+## To be continued (Work in progress). If you want to add something, you are most welcome to do so.
