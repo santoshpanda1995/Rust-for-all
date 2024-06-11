@@ -44,9 +44,9 @@ rustc Hello.rs
 - [Function without return](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/function_without_return.rs)
 - [Function with return](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/function_with_return.rs)
 - [Number Separator](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/number_separator.rs)
-- Boolean
-- Mutable
-- Constants
+- [Boolean](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/boolean.rs)
+- [Mutable](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/mutable.rs)
+- [Constants](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/constants.rs)
 - if
 - if else
 - else if
