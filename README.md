@@ -17,8 +17,7 @@ notepad Hello.rs
 ```
 4) Write your Hello World program
 ```
-fn
-main(){
+fn main(){
    println!("Hello world");
 }
 ```
