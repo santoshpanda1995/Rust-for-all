@@ -40,7 +40,10 @@ rustc Hello.rs
 - [Comment](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/comment.rs)
 - [Declare a variable](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/variable.rs)
 - [Print Primitives](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/print_primitives.rs)
-- Integers
+- [Integers](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/integers.rs)
+- [Integers Range](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/integerrange.rs)
+- [Function without return](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/function_without_return.rs)
+- [Function with return](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/function_with_return.rs)
 - Boolean
 - Mutable
 - Constants
