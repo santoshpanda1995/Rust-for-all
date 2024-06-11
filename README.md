@@ -39,6 +39,7 @@ rustc Hello.rs
 - [Hello world](https://github.com/santoshpanda1995/Rust-for-all/blob/main/Hello.rs) 
 - [Comment](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/comment.rs)
 - [Declare a variable](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/variable.rs)
+- [Print Primitives](https://github.com/santoshpanda1995/Rust-for-all/blob/main/program/print_primitives.rs)
 - Integers
 - Boolean
 - Mutable
