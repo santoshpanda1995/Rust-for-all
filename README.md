@@ -3,7 +3,7 @@
 **This comprehensive collection covers everything from the foundational basics to advanced techniques related to Rust Programming language. Rust is a modern systems programming language developed by the Mozilla Corporation. Rust can be installed in Windows/Linux, and it can also be run in the browser directly from the website [Rust Playground](https://play.rust-lang.org/)**
 
 **Creating your first Rust program**
-1) First, create a folder. For e.g., let us take HelloWorld
+1) First, create a folder. For e.g. let us take HelloWorld
 ```
 mkdir HelloWorld
 ```
